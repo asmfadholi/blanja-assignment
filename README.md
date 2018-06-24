@@ -2,6 +2,13 @@
 
 > Vue.js project
 
+Create project using
+
+- HTML 5
+- CSS3
+- Bootstrap
+- Vue.js
+
 ## Build Setup
 
 ``` bash
