@@ -1,25 +1,25 @@
 <template lang="jade">
   div#app
-    router-view  
+    router-view
 </template>
 
 <script>
-import axios from 'axios'
+//import axios from 'axios'
 import 'bootstrap/dist/css/bootstrap.css'
 
 export default {
   name: 'App',
   data() {
-    return {      
+    return {
     }
-    
+
   }
 }
 </script>
 
 <style lang="less">
-#app {  
+#app {
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;  
+  -moz-osx-font-smoothing: grayscale;
 }
 </style>
